@@ -1,1 +1,1 @@
-NamDZ:0.tcp.ap.ngrok.io:16464 
+NamDZ:0.tcp.ap.ngrok.io:16464:0:0
